@@ -2,6 +2,8 @@ Project Title:	Bucky Boxing
 Your Name:	Kevin Mui
 Team Members:	Micah Derusha; JARED MICHAEL MERKEL; BRENDAN COLE SMICK
 
+Video Demo: https://drive.google.com/open?id=0BwAenWjaeKh5NnYzYjBZbnBTSEE 
+
 Project Instructions: 	This project simulates real-world boxing. A player can block or attack using their board. 
 			To attack, press the directional button to attack in that respective direction.
 			The player recieving the attack has 4 intervals (timing specified in code) to block the attack
